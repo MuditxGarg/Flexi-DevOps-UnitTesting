@@ -1,3 +1,5 @@
+For the hands-on session in Semester 7 - Flexi Course - DevOps
+
 Get All Products - http://127.0.0.1:5000/products Method = GET
 Get Product By Id - http://127.0.0.1:5000/products/1 Method = GET
 Add a Product - http://127.0.0.1:5000/products Method = POST
